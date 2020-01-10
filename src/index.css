@@ -45,8 +45,8 @@ ol, ul {
     background-color: darksalmon;
 }
 
-.square-choice {
-    background-color: lightskyblue;
+.button-history {
+    background-color: lightpink;
 }
 
 .kbd-navigation .square:focus {
